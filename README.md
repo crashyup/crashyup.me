@@ -1,2 +1,2 @@
-# crashyup.me
-My first personal website
+# CRASHYUP
+Track my luck
